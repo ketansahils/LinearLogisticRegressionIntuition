@@ -1,7 +1,8 @@
 # LinearLogisticRegressionIntuition
-Some of my old notebooks to help understand and visualize 
-  * linear and logistic regression training.
+Some of my notebooks to help understand and visualize 
+  * Fisher Discriminant and splitting classes
+  * linear and logistic regression training
   * minimization of cost function
   * decision boundary
 
-Code in Python-2.7, Libraries - Matplotlib, Numpy, etc.
+Code in Python-2.7/3.6, Libraries - Matplotlib, Numpy, etc.
