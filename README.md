@@ -1,4 +1,4 @@
-# LinearLogisticRegressionIntuition
+# ML - Intuition
 Some of my notebooks to help understand and visualize 
   * Fisher Discriminant and splitting classes
   * linear and logistic regression training
